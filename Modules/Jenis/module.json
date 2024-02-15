@@ -1,0 +1,11 @@
+{
+    "name": "Jenis",
+    "alias": "jenis",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Jenis\\App\\Providers\\JenisServiceProvider"
+    ],
+    "files": []
+}
